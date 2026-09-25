@@ -31,3 +31,9 @@ Projeto prático desenvolvido para a disciplina de **Programação Orientada a O
   * Upload mínimo: **30 Mbps**
   * Chave única: Rejeição de identificadores já cadastrados na base.
 * **Tratamento de Exceções:** Emprego de blocos `try-except` e emissão de alertas com `raise` para impedir interrupções inesperadas de execução.
+
+* ---
+
+## 📊 Diagrama de Classes
+
+![Diagrama](Diagrama_de_Classes_SISGESAC.pdf)
